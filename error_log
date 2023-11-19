@@ -1,0 +1,16 @@
+[31-Jan-2023 13:49:46 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marketpl_marketplace13.business_settings' doesn't exist in /home/marketplacebridg/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/marketplacebridg/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/marketplacebridg/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/marketplacebridg/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/marketplacebridg/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/marketplacebridg/public in /home/marketplacebridg/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[02-Feb-2023 21:17:44 Asia/Calcutta] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 65536 bytes) in /home/marketplacebridg/public_html/vendor/composer/ClassLoader.php on line 571
+[02-Feb-2023 17:23:14 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 135168 bytes) in /home/marketplacebridg/public_html/vendor/composer/autoload_static.php on line 10844
+[02-Feb-2023 17:23:14 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 1609728 bytes) in /home/marketplacebridg/public_html/vendor/composer/autoload_real.php on line 29
+[02-Feb-2023 17:23:14 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 135168 bytes) in /home/marketplacebridg/public_html/vendor/composer/autoload_static.php on line 10844
+[03-Feb-2023 00:54:01 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 90112 bytes) in /home/marketplacebridg/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/RulesetInflector.php on line 20
+[03-Feb-2023 00:24:01 Asia/Calcutta] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 65536 bytes) in /home/marketplacebridg/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift.php on line 54
+[10-Feb-2023 11:38:42 Asia/Calcutta] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 65536 bytes) in /home/marketplacebridg/public_html/vendor/composer/ClassLoader.php on line 571
+[11-Feb-2023 19:40:49 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 4096 bytes) in /home/marketplacebridg/public_html/vendor/composer/autoload_static.php on line 926
+[11-Feb-2023 19:40:49 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 4096 bytes) in /home/marketplacebridg/public_html/vendor/composer/autoload_static.php on line 926

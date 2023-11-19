@@ -1,0 +1,4 @@
+[08-Jul-2023 01:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/d8wbq4g1pqr5/public_html/ecommerce.nmsoft.in/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/d8wbq4g1pqr5/public_html/ecommerce.nmsoft.in/config/cache.php on line 21
