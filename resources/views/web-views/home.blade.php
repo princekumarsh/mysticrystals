@@ -1,6 +1,9 @@
 @extends('layouts.front-end.app')
 @section('content')
 
+
+
+
 <body class="home page-template page-template-100-width page-template-100-width-php page page-id-12951 theme-Avada woocommerce-no-js tinvwl-theme-style fusion-image-hovers fusion-pagination-sizing fusion-button_type-flat fusion-button_span-no fusion-button_gradient-linear avada-image-rollover-circle-yes avada-image-rollover-yes avada-image-rollover-direction-left fusion-body ltr fusion-sticky-header no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-mobile-totop fusion-disable-outline fusion-sub-menu-fade mobile-logo-pos-left layout-wide-mode avada-has-boxed-modal-shadow- layout-scroll-offset-full avada-has-zero-margin-offset-top fusion-top-header menu-text-align-center fusion-woo-product-design-clean fusion-woo-shop-page-columns-3 fusion-woo-related-columns-3 fusion-woo-archive-page-columns-3 fusion-woocommerce-equal-heights avada-has-woo-gallery-disabled woo-sale-badge-circle woo-outofstock-badge-rectangle mobile-menu-design-modern fusion-show-pagination-text fusion-header-layout-v3 avada-responsive avada-footer-fx-none avada-menu-highlight-style-bottombar fusion-search-form-clean fusion-main-menu-search-overlay fusion-avatar-circle avada-sticky-shrinkage avada-dropdown-styles avada-blog-layout-masonry avada-blog-archive-layout-masonry avada-header-shadow-no avada-menu-icon-position-left avada-has-megamenu-shadow avada-has-pagetitle-bg-full avada-has-mobile-menu-search avada-has-main-nav-search-icon avada-has-breadcrumb-mobile-hidden avada-has-titlebar-hide avada-header-border-color-full-transparent avada-has-pagination-width_height avada-flyout-menu-direction-fade avada-ec-views-v1"
     data-awb-post-id="12951">
     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
